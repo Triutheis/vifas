@@ -1,0 +1,12 @@
+{
+    "accounts": {
+        "nongtrieuthai2007@gmail.com": {
+            "email": "https://yontrungquoc.net",
+            "status": "13/10/2021"
+        },
+        "example@gmail.com": {
+            "email": "example@yontrungquoc.net",
+            "status": "Đang hoạt động"
+        }
+    }
+}
